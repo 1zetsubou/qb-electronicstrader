@@ -7,6 +7,8 @@ Constant Development Discord: https://discord.gg/gSQbshCNv4
 
 Constant RolePlay Discord: https://discord.gg/constantroleplay
 
+If you are to run into any issues regarding this Resource you may open a Ticket within Constant Development or ask for appropiate Support within the Discord!
+
 Within this Resource, you will be able to trade Electronical Assets for bare Electronics. Main usage would allow a seperate Crafting Item within your City that would become unique to things like Boosting Crafting, and such. Another note, you may change the Electronic mindset and have the Trader useful for any "Trade System".
 
 Important Fact:
