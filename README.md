@@ -15,6 +15,10 @@ Important Fact:
 
  - This Resource is using QB-Target and NOT Visible DrawText.
 
+Dependencies:
+https://github.com/Renewed-Scripts/qb-target
+https://github.com/MiddleSkillz/ms-peds
+
 -- Place into qb-core/shared/items.lua
 ```
     ["electronics"] = {
